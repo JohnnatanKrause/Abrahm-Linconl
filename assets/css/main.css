@@ -2144,3 +2144,41 @@ section,
   font-size: 50px; /* Ou qualquer valor que se adeque ao seu design */
   color: #007bff; /* Cor do ícone */
 }
+
+.swiper-slide img {
+  max-width: 80%; /* Ajuste para o tamanho desejado, pode ser menos ou mais */
+  height: auto; /* Mantém a proporção da imagem */
+  margin: 0 auto; /* Centraliza as imagens horizontalmente */
+}
+
+.portfolio-details-slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Centraliza a descrição principal */
+.portfolio-description {
+  text-align: center;
+}
+
+/* Centraliza os títulos das seções (Ambientes, Diferenciais e Detalhes) */
+.portfolio-info h3 {
+  text-align: center;
+}
+
+/* Estiliza a lista */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin: 8px 0; /* Adiciona espaçamento entre os itens da lista */
+}
+
+/* Centraliza a navegação dos pontos abaixo das imagens */
+.swiper-pagination {
+  text-align: center;
+  margin-top: 20px; /* Espaçamento entre as imagens e os pontos */
+}
