@@ -1,4 +1,4 @@
-# Imperial - Site de Venda de Imóvel
+# Abraham Lincoln - Site de Venda de Imóvel
 
 Este é um site desenvolvido para a venda de um imóvel, utilizando o template **Imperial** baseado no framework **Bootstrap**. O template foi adaptado e personalizado para atender às necessidades deste projeto específico.
 
@@ -27,7 +27,7 @@ O projeto foi desenvolvido para criar uma página de venda de imóvel, com infor
 
 O site está publicado no GitHub Pages. Você pode acessá-lo através do seguinte link:
 
-[Visite o site de venda de imóvel](https://johnnatankrause.github.io/Abrahm-Linconl)
+[Conheça o seu mais novo lar!](https://johnnatankrause.github.io/Abrahm-Linconl)
 
 ## Como Usar
 
