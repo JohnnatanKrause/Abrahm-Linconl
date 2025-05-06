@@ -168,7 +168,9 @@
       let config = JSON.parse(
         swiperElement.querySelector(".swiper-config").innerHTML.trim()
       );
-
+      // 🔹 Ajustando configurações para exibir apenas 1 slide por vez
+      config.slidesPerView = 1;
+      config.spaceBetween = 0;
       if (swiperElement.classList.contains("swiper-tab")) {
         initSwiperWithCustomPagination(swiperElement, config);
       } else {
