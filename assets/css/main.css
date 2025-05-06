@@ -2146,8 +2146,8 @@ section,
 }
 
 .swiper-slide img {
-  width: 100%; /* Garante que as imagens ocupem a largura total */
-  height: 500px; /* Ajuste conforme necessário para manter todas do mesmo tamanho */
+  width: 500%; /* Garante que as imagens ocupem a largura total */
+  height: 600px; /* Ajuste conforme necessário para manter todas do mesmo tamanho */
   object-fit: cover; /* Garante um recorte adequado sem distorcer a imagem */
   margin: 0 auto; /* Centraliza horizontalmente */
 }
